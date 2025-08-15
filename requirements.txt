@@ -1,0 +1,14 @@
+streamlit==1.46.1
+
+# Markdown processing with syntax highlighting support
+markdown==3.7
+Pygments==2.19.2
+
+# HTTP requests for API calls (Gemini AI, WordPress REST API)
+requests==2.32.4
+
+# Environment variable management
+python-dotenv==1.1.1
+
+# Optional: For enhanced security when making HTTPS requests
+certifi==2025.6.15
